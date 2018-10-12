@@ -15,8 +15,8 @@ Using raw integers is dangerous. Just a few examples:
 
 ### Demo
 ```cpp
-cout << ONE << endl;
-cout << FIFTYTWO - TWELVE << endl;
+assert(ONE + FIVE == SIX);
+assert(ONETHOUSAND - THIRTEEN == NINEHUNDREDANDEIGHTYSEVEN);
 ```
 
 ### Excerpt from the library:

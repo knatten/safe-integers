@@ -1,10 +1,11 @@
-#include "include/safe_numbers.h"
+#include "include/safe_integers.h"
 #include <iostream>
+#include <cassert>
 
 using std::cout;
 using std::endl;
 
 int main() {
-    cout << ONE << endl;
-    cout << FIFTYTWO - TWELVE << endl;
+    assert(ONE + FIVE == SIX);
+    assert(ONETHOUSAND - THIRTEEN == NINEHUNDREDANDEIGHTYSEVEN);
 }
