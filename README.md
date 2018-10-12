@@ -30,5 +30,10 @@ constexpr auto SIXHUNDREDANDFORTYTHOUSAND = SIXHUNDREDANDTHIRTYNINETHOUSANDNINEH
 // SIXHUNDREDANDFORTYTHOUSAND ought to be enough for anybody
 ```
 
+### Credits
+Based on ideas by [moonette](https://twitter.com/willkirkby/status/1041657267198849024) and [Ólafur Waage](https://twitter.com/olafurw/status/1050647090731175936)
+
+
 ### Just to be on the safe side:
 Yes, this is a joke.
+
